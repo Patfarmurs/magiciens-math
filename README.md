@@ -152,7 +152,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project...
 
-If you like this project kindly send me an e-mail expressing it, it would make my day and fuel my motivation.
+Kindly send me an e-mail expressing it, it would make my day and fuel my motivation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
