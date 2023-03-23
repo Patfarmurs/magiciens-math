@@ -43,8 +43,6 @@ Mathapp The JavaScript project is a calculator app.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Math Calculations]**
 - **[Read Math quote]**
 
@@ -54,7 +52,6 @@ Mathapp The JavaScript project is a calculator app.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -62,8 +59,6 @@ Mathapp The JavaScript project is a calculator app.
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -123,8 +118,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Patfarmurs**
 
 - GitHub: (https://github.com/Patfarmurs)
@@ -136,11 +129,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Add components]**
-- [ ] **[Impliment logic]**
-- [ ] **[Refactor codes with functional hooks]**
+**[Add components]**
+**[Impliment logic]**
+**[Refactor codes with functional hooks]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +159,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
