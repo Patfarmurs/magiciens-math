@@ -149,9 +149,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project...
+
+Kindly send me an e-mail expressing it, it would make my day and fuel my motivation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
