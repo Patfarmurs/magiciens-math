@@ -160,8 +160,8 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
-Amaka Laura Conwea
+I would like to thank...<br>
+Amaka Laura Conwea and <br>
 Sajeel Zafar
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
