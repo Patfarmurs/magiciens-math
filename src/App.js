@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
+import Quotes from './components/Quotes';
 import CalcUserInterface from './components/Calculator';
 
-// eslint-disable-next-line
-class App extends Component {
-  render() {
-    return (
+function App() {
+  return (
+    <div>
+      <Quotes />
       <CalcUserInterface />
-    );
-  }
+    </div>
+  );
 }
 
 export default App;
