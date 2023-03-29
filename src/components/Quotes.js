@@ -42,7 +42,7 @@ function Quotes() {
         ) : (
           <>
             {quote}
-            <div className="quote-author_category">
+            <div className="quote-page_content">
               -
               {' '}
               {author}

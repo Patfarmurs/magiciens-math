@@ -26,6 +26,13 @@ code {
     monospace;
 }
 
+.page-container,
+p,
+h2 {
+  padding: 0 20px;
+  font-size: 20px;
+}
+
 section {
   display: flex;
   justify-content: center;
@@ -34,12 +41,52 @@ section {
   padding: 20px 20px;
 }
 
+@media screen and (max-width: 700px) {
+  section {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.quote p {
+  padding: 0 30px;
+  font-size: 20px;
+}
+
+.Navbar,
+h1 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 20px;
+}
+
+ul {
+  display: inline-flex;
+  justify-content: space-between;
+  list-style: none;
+  gap: 10px;
+}
+
+ul a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  border-right: 2px solid black;
+  padding: 10px;
+  height: 50%;
+}
+
 .container {
   background-color: silver;
 }
 
 .header {
   display: flex;
+  height: 35px;
   justify-content: flex-end;
   font-size: 25px;
   padding-right: 10px;
