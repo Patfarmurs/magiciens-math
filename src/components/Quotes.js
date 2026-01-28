@@ -33,15 +33,15 @@ function Quotes() {
   }, []);
 
   return (
-    <div className="quotes">
+    <section className="quotes">
       {
         loading || error ? (
           <div className={loading ? 'loading' : 'error'}>
             {loading ? <div className="loader" /> : `Error: ${error}` }
           </div>
         ) : (
-          <>
-            {quote}
+          <div className="quote-container">
+            <div className="quote-text">{quote}</div>
             <div className="quote-page_content">
               -
               {' '}
@@ -51,10 +51,10 @@ function Quotes() {
               {category}
               )
             </div>
-          </>
+          </div>
         )
       }
-    </div>
+    </section>
   );
 }
 
